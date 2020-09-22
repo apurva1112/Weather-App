@@ -1,5 +1,6 @@
 // API_KEY for maps api
-let API_KEY = "a8e71c9932b20c4ceb0aed183e6a83bb";
+// Sign-up on https://home.openweathermap.org/users/sign_up to get an API_KEY
+let API_KEY = "API_KEY_HERE";
 
 getWeatherData = (city) => {
   const URL = "https://api.openweathermap.org/data/2.5/weather";
